@@ -1,8 +1,6 @@
 ## Peter Ferguson [@_peterferguson](https://twitter.com/_peterferguson)
 
-- 🔭 I’m currently working on bootstrapping [Roundtable](https://getroundtable.xyz)
-- 🌱 I’m currently learning everything I can about web3 & investment DAOs
-- 👯 I’m looking to collaborate on bringing investment clubs into the modern age
+- 🔭 I’m currently working on bootstrapping [Forum](https://forumdaos.com)
 - 💬 Ask me about Geometry of String Theory or of Deep Learning. I had accepted PhDs in both before diving into web3 👀
 - ⚡ Fun fact: I was ranked #3 powerlifter 🏋️ in 74kg weight class in Ireland 2018 ... just missed out on the national bench press record 😵‍💫
 
